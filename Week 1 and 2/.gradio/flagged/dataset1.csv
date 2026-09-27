@@ -1,0 +1,3 @@
+Upload Fashion Image,Prediction Result,Class Probabilities,timestamp
+.gradio\flagged\Upload Fashion Image\f419d44245125f3796f4\Screenshot 2026-08-21 051541.png,"Prediction: Bag
+Confidence: 100.00%","{""label"": ""Bag"", ""confidences"": [{""label"": ""Bag"", ""confidence"": 1.0}, {""label"": ""Shirt"", ""confidence"": 3.54495925548486e-21}, {""label"": ""T-shirt/top"", ""confidence"": 0.0}, {""label"": ""Trouser"", ""confidence"": 0.0}, {""label"": ""Pullover"", ""confidence"": 0.0}, {""label"": ""Dress"", ""confidence"": 0.0}, {""label"": ""Coat"", ""confidence"": 0.0}, {""label"": ""Sandal"", ""confidence"": 0.0}, {""label"": ""Sneaker"", ""confidence"": 0.0}, {""label"": ""Ankle boot"", ""confidence"": 0.0}]}",2026-09-28 03:36:55.446729
