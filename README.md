@@ -49,7 +49,7 @@ Deep-Learning-Complete/
 │   │   └── placement.csv
 │   └── .gradio/
 │       └── flagged/
-│
+├── Week 3
 ├── CIFAR100_CNN_Assignment.ipynb
 └── README.md
 ```
