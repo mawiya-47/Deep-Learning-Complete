@@ -1,0 +1,31 @@
+HUGGING FACE DEPLOYMENT STEPS
+
+1. Train your YOLO model in Google Colab.
+2. Download best.pt from:
+   runs/detect/weapon_detection_yolov8_roboflow/weights/best.pt
+
+3. Go to:
+   https://huggingface.co/spaces
+
+4. Click:
+   Create new Space
+
+5. Select:
+   SDK = Gradio
+   Visibility = Public or Private
+
+6. Upload these files:
+   app.py
+   requirements.txt
+   README.md
+   best.pt
+
+7. Wait for Hugging Face to build the Space.
+
+8. Open the app and test:
+   - Upload image
+   - Capture from webcam
+   - Run YOLO Detection
+
+NOTE:
+If webcam does not work, check browser camera permission.
