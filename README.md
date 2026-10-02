@@ -37,20 +37,13 @@ It documents weekly progress, assignments, notes, and experiments as part of my 
 ```
 Deep-Learning-Complete/
 │
-├── Week 1 and 2/
-│   ├── Introduction to Deep Learning.pdf
-│   ├── Fashion_MNIST_upload_predict.ipynb
-│   ├── data/
-│   │   ├── perceptron.png
-│   │   ├── perceptron_model.png
-│   │   ├── perceptron trick.png
-│   │   ├── MLP.png
-│   │   ├── trainable parameter MLP.png
-│   │   └── placement.csv
-│   └── .gradio/
-│       └── flagged/
+├── Week 1 and 2/    
 ├── Week 3
-├── CIFAR100_CNN_Assignment.ipynb
+├── Week 4
+├── Week 5
+├── Week 6
+├── Week 7
+├── Week 8
 └── README.md
 ```
 
